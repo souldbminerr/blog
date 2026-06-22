@@ -10,6 +10,8 @@ To start, I tried compiling SpiderMonkey. It didnt work, so there was a lot more
 
 Now time to port 0 A.D. to Switch (which is why I ported spidermonkey instead of something like quickjs).
 
+I also added a bunch of wrappers for libnx functions, along with allowing console.X to output to libnx console. This should make this a somewhat-decent way to prototype homebrew ideas quickly, as you can just drop a js file onto your SD and run it
+
 Note: There is no JIT. I am not insane enough to attempt to get JIT working
 
 ---
