@@ -19,4 +19,4 @@ Making the brackets was honestly not that bad, i just went from 1733->2400MHz in
 
 ---
 
-← [Back to posts](./)
+← [Back to posts](../../)

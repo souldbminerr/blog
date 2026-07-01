@@ -16,4 +16,4 @@ Note: There is no JIT. I am not insane enough to attempt to get JIT working
 
 ---
 
-← [Back to posts](./)
+← [Back to posts](../../)
