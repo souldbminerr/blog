@@ -2,6 +2,10 @@
 
 <ul class="post-list">
   <li>
+    <a href="./2026-07/dram64lut/">How I made DRAM 64LUT</a>
+    <span class="post-date">2026-07-25</span>
+  </li>
+  <li>
     <a href="./2026-06/0ad-switch-1/">How I ported 0 AD to Switch</a>
     <span class="post-date">2026-06-30</span>
   </li>
