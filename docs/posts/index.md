@@ -2,6 +2,10 @@
 
 <ul class="post-list">
   <li>
+    <a href="./2026-08/90hz_part1/">90Hz OLED (Part 1)</a>
+    <span class="post-date">2026-08-07</span>
+  </li>
+  <li>
     <a href="./2026-07/dram64lut/">How I made DRAM 64LUT</a>
     <span class="post-date">2026-07-25</span>
   </li>
