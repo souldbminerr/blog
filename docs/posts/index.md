@@ -2,7 +2,7 @@
 
 <ul class="post-list">
   <li>
-    <a href="./2026-09/snesrecomp_switch/">How Horizon OC works</a>
+    <a href="./2026-09/snesrecomp_switch/">SNESRecomp Switch Port</a>
     <span class="post-date">2026-09-12-</span>
   </li>
   <li>
